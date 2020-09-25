@@ -1,0 +1,22 @@
+{
+  "files": {
+    "main.css": "/VideoMergerWebsite/static/css/main.5f361e03.chunk.css",
+    "main.js": "/VideoMergerWebsite/static/js/main.809326c0.chunk.js",
+    "main.js.map": "/VideoMergerWebsite/static/js/main.809326c0.chunk.js.map",
+    "runtime-main.js": "/VideoMergerWebsite/static/js/runtime-main.ddafa176.js",
+    "runtime-main.js.map": "/VideoMergerWebsite/static/js/runtime-main.ddafa176.js.map",
+    "static/js/2.50ee6dc9.chunk.js": "/VideoMergerWebsite/static/js/2.50ee6dc9.chunk.js",
+    "static/js/2.50ee6dc9.chunk.js.map": "/VideoMergerWebsite/static/js/2.50ee6dc9.chunk.js.map",
+    "index.html": "/VideoMergerWebsite/index.html",
+    "precache-manifest.8bf374b39866763fad6698fa55b2c5a6.js": "/VideoMergerWebsite/precache-manifest.8bf374b39866763fad6698fa55b2c5a6.js",
+    "service-worker.js": "/VideoMergerWebsite/service-worker.js",
+    "static/css/main.5f361e03.chunk.css.map": "/VideoMergerWebsite/static/css/main.5f361e03.chunk.css.map",
+    "static/js/2.50ee6dc9.chunk.js.LICENSE.txt": "/VideoMergerWebsite/static/js/2.50ee6dc9.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.ddafa176.js",
+    "static/js/2.50ee6dc9.chunk.js",
+    "static/css/main.5f361e03.chunk.css",
+    "static/js/main.809326c0.chunk.js"
+  ]
+}
